@@ -15,7 +15,7 @@
 
   * SSH: git clone git@github.com:thanhlongvl/springbootserversportstore.git
 
-<img src="https://ibb.co/Sf7QJXY">
+<img src="https://i.imgur.com/VuaimFz.png">
 
 
 ### 2. Build and run the app

@@ -27,3 +27,4 @@
 <img src="https://i.imgur.com/vMEIa8U.png">
 
 ### 3. Build and run the app
+Run app with Run->Runproject

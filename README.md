@@ -16,7 +16,7 @@
 
  * SSH: git clone git@github.com:thanhlongvl/springbootserversportstore.git
 
-<img src="https://imgur.com/VuaimFz">
+<img src="https://assets.adidas.com/images/h_600,f_auto,q_auto:sensitive,fl_lossy/69721f2e7c934d909168a80e00818569_9366/Stan_Smith_Shoes_White_M20324_01_standard.jpg">
 
 
 ###2. Build and run the app

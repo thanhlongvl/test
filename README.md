@@ -6,7 +6,7 @@
 2. Maven - 3.x.x.
 3. Git - 2.x.x
 
-----
+
 ## Steps to Setup
 ### 1. Clone the application
 * Create folder for contain project and open Git bash in it

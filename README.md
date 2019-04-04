@@ -1,5 +1,5 @@
 # Spring Boot Server Applcation
-
+<img src="https://huongdanjava.com/wp-content/uploads/2018/03/spring-boot-1.png">
 
 ## Requirements
 1. Java - 1.8.x.

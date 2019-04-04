@@ -20,10 +20,9 @@
 ### 2. Set up database and connect to MySQL
 * Run all query in **query.sql** file with MySQL to create database
 * Open project with IntelliJ IDEA or Eclipse then search **application.properties** file and edit code to connet to MySQL and database.
-
--*spring.datasource.url=jdbc:mysql://localhost:3306/sportstore*
--*spring.datasource.username=yourusername*
--*spring.datasource.password=yourpassword*
+  * spring.datasource.url=jdbc:mysql://localhost:3306/sportstore
+  * spring.datasource.username=yourusername
+  * spring.datasource.password=yourpassword
 
 <img src="https://i.imgur.com/vMEIa8U.png">
 
